@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MAHLEInterface", "MAHLEInterface\MAHLEInterface.csproj", "{C20A8B3C-BAD9-45A0-91B2-D6119C4DAD8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C20A8B3C-BAD9-45A0-91B2-D6119C4DAD8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C20A8B3C-BAD9-45A0-91B2-D6119C4DAD8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C20A8B3C-BAD9-45A0-91B2-D6119C4DAD8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C20A8B3C-BAD9-45A0-91B2-D6119C4DAD8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1958A1E-9815-410C-81A3-F32101F7F4B0}
+	EndGlobalSection
+EndGlobal
